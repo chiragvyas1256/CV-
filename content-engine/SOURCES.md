@@ -1,47 +1,48 @@
-# Daily AI / Tech / Creativity Source Stack
+# Daily Source Stack — Creative-Production Lens
 
-Read in this order. Total time: 15-20 min/day. Stop when you have 3 candidate stories.
+Reprioritised for a working video professional. **Visual/generative AI is Tier 1
+for you**, not a side category — it's the beat where your 8 years are the moat.
 
-## Tier 1 — the non-negotiables (check every single day)
+Read time: 15 min/day. Stop when you have 3 candidates.
 
-| # | Source | URL | Why | Best time (IST) |
-|---|--------|-----|-----|-----------------|
-| 1 | **TLDR AI** (newsletter) | tldr.tech/ai | 5-bullet daily digest of model launches, funding, research. Fastest signal-to-noise on the internet. | ~6:30 PM |
-| 2 | **Hacker News** front page | news.ycombinator.com | The comments are the story. If a tool is on HN front page with 300+ points, it's a Reel. | anytime |
-| 3 | **X / Twitter AI list** | build your own list | Follow: @OpenAI @AnthropicAI @GoogleDeepMind @minchoi @rowancheung @heyBarsee @ai_for_success | morning + night |
+## Tier 1 — every day
 
-## Tier 2 — the depth layer (check 4-5x/week)
+| # | Source | URL | Why it's Tier 1 *for you* |
+|---|--------|-----|---------------------------|
+| 1 | **Runway / Pika / Luma / Midjourney release notes + changelogs** | official blogs & Discords | This is your beat. A Runway feature drop is a Reel you can shoot the same day with real footage. |
+| 2 | **TLDR AI** | tldr.tech/ai | 5 bullets, daily. Use it to catch the big model news you'd otherwise miss. |
+| 3 | **Adobe / Premiere / DaVinci AI feature news** | Adobe blog, Blackmagic | Your actual tools. Most direct "does this change my pipeline" content there is. |
+| 4 | **X list — creative AI** | build your own | @runwayml @pika_labs @LumaLabsAI @midjourney @c_valenzuelab @minchoi @heyBarsee |
 
-| Source | URL | Use it for |
-|--------|-----|-----------|
-| The Rundown AI | therundown.ai | Same beat as TLDR, different angle — good for cross-checking a story is real |
-| Ben's Bites | bensbites.com | Startup + indie-tool angle, great for "tools nobody is talking about" Reels |
-| Product Hunt | producthunt.com | New AI tools daily, ready-made "I tested 5 tools" content |
-| r/StableDiffusion, r/singularity | reddit.com | Creative/visual AI, where the actual creators are |
-| Hugging Face Trending | huggingface.co/models?sort=trending | Where model news breaks before media picks it up |
-
-## Tier 3 — creativity / creator-economy niche (2-3x/week)
+## Tier 2 — 4-5x/week
 
 | Source | URL | Use it for |
 |--------|-----|-----------|
-| Futurepedia / There's An AI For That | futurepedia.io | Tool-discovery Reels ("3 AI tools for designers") |
-| Runway / Midjourney / Pika release notes | official blogs | Visual AI = highest-performing Reel category |
-| Creator Economy newsletters (Colin & Samir, Hung Up) | — | Meta-content: how creators are using AI |
+| r/StableDiffusion | reddit.com/r/StableDiffusion | Where working creatives post real results and real failures. Goldmine for "The Test". |
+| Hacker News | news.ycombinator.com | Catches the big structural stories. Comments give you the contrarian take. |
+| Product Hunt | producthunt.com | New tools before they're saturated — early = your edge |
+| The Rundown / Ben's Bites | therundown.ai / bensbites.com | Cross-check a story is real before you build a Reel on it |
+| Hugging Face trending | huggingface.co/models?sort=trending | Open-source video/image models before media notices |
 
-## Anti-sources (skip these)
-- LinkedIn AI influencer posts — 80% recycled, 3 days late
-- YouTube "AI news" channels — you'd be re-reporting a re-report
-- Any site whose headline is "X is DEAD" — you'll burn trust
+## Tier 3 — 2x/week
+- **Futurepedia** — tool discovery
+- **Creator-economy newsletters** — how other creatives are actually monetising AI
+- **Fstoppers / No Film School** — the photo/film trade press angle on AI
+
+## Anti-sources
+- LinkedIn AI influencers — recycled, 3 days late
+- "AI news" YouTube channels — you'd be re-reporting a re-report
+- Any "X is DEAD" headline — burns trust with professionals, and professionals are your audience
 
 ---
 
-## The 15-minute daily filter
+## The filter — 5 gates now (needs 4 of 5)
 
-Run every story through these 4 gates. **It needs 3 of 4 to become a Reel.**
+1. **Under 48 hours old?**
+2. **One sentence, non-technical?**
+3. **Does it change what someone can DO tomorrow?**
+4. **Do I have a take?**
+5. **★ Can I test this on real footage today?** ← *your differentiator. A story that
+   passes this gate beats a bigger story that doesn't.*
 
-1. **Is it < 48 hours old?** Older = you're late, engagement dies.
-2. **Can I explain it in one sentence to someone non-technical?** If no, skip.
-3. **Does it change what someone can DO tomorrow?** News about a funding round = weak. News about a free tool = strong.
-4. **Do I have a take?** Not just "this launched" — "this launched and here's who should panic."
-
-If you have 3 candidates, rank by gate 3. That's your Reel.
+Gate 5 is the whole strategy. When it passes, that's your Reel — every time.
